@@ -1,7 +1,7 @@
 
 # Treatment of Anomalies
 
-This repository has been created to control the code of the first lesson of my Masters in AI.
+This repository has been created to control the code of the first lesson of Percepcón computacional in Masters in AI.
 
 ## Installation
 
